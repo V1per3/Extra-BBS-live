@@ -1,0 +1,1 @@
+window.baseUrl = 'http://ExtraBBS.live:2333'
